@@ -31,5 +31,6 @@ CREATE HYPOTHETICAL index_name ON table_name (<cols>) <br />
 DROP HYPOTHETICAL index_name <br />
 EXPLAIN HYPOTHETICAL query_to_explain <br />
 
-To view some examples of using see the wiki home page. 
+To view some examples of using see the wiki home page: <br />
+https://github.com/BioBD/Hypothetical_Indexes/wiki
 
